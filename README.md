@@ -1,17 +1,17 @@
-ELLEVENMIND | REGISTRY
+ANTHROBERC | REGISTRY
 
 1. CORPORATE IDENTITY
-* Brand: EllevenMind
+* Brand: Anthroberc
 * Type: Technology Parent Company
-* Founder: Anthony Altman
-* Location: India
+* Founder/CEO: Nolan Stark
+* Location: USA
 * Founded: February 4, 2026
 
 2. PROOF OF USE
 Official presence and priority claim established on:
-* GitHub: [github.com/ellevenmind](https://github.com/ellevenmind)
-* Hugging Face: [huggingface.co/ellevenmind](https://huggingface.com/ellevenmind)
-* X: [x.com/ellevenmind](https://x.com/ellevenmind)
+* GitHub: [github.com/anthroberc](https://github.com/anthroberc)
+* Hugging Face: [huggingface.co/anthroberc](https://huggingface.com/anthroberc)
+* X: [x.com/anthroberc](https://x.com/anthroberc)
 
 3. LEGAL DECLARATION
 This document provides timestamped evidence of prior use. 
@@ -21,7 +21,6 @@ technology, software, and AI research.
 4. RIGHTS
 All Rights Reserved.
 Strictly Proprietary.
-
 ---
 DATE: February 4, 2026
 STATUS: VERIFIED RECORD
